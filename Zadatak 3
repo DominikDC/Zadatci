@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <h1>NHL 25 is now available worldwide!</h1>
+            <h2>Buy now and hit the ice today.</h2>
+            <p>PLAY NOW</p>
+            <p>Latest Games</p>
+            <figure>
+                <a href="slika.jpg" target="_blank">
+                    <img src="slika.jpg" alt="slika" title="NHL">
+                </a>
+                <figcaption>Opis slike: NHL 25</figcaption>
+            </figure>
+        
+            <figure>
+                <a href="https://media.contentapi.ea.com/content/dam/ea/nhl/nhl-25/images/2024/08/nhl25-hero-md-dlx-7x2-xl.jpg.adapt.crop5x2.1455w.jpg" target="_blank">
+                    <img src="https://media.contentapi.ea.com/content/dam/ea/nhl/nhl-25/images/2024/08/nhl25-hero-md-dlx-7x2-xl.jpg.adapt.crop5x2.1455w.jpg" alt="NHL">
+                </a>
+                <figcaption>Opis slike: NHL 25 - Hero Image</figcaption>
+            </figure>
+        </body>
+    </head>
+</html>
