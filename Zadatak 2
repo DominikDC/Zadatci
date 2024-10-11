@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <h1>NHL 25 is now available worldwide!</h1>
+        <h2>Buy now and hit the ice today.</h2>
+        <p>PLAY NOW</p>
+        <p>Latest Games</p>
+        <img src="slike/slika.jpg" alt="slika" title="NHL">
+        <img src="https://media.contentapi.ea.com/content/dam/ea/nhl/nhl-25/images/2024/08/nhl25-hero-md-dlx-7x2-xl.jpg.adapt.crop5x2.1455w.jpg" alt="NHL">
+    </body>
+</html>
