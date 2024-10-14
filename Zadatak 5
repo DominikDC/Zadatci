@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <body>
+        <h1>Popis mobitela</h1>
+        <table border="1">
+            <tr>
+                <th colspan="2">Samsung</th>
+                <th colspan="2">Apple</th>
+            </tr>
+            <tr>
+                <th><img src="https://drop.ndtv.com/TECH/product_database/images/329201783848PM_120_samsung_galaxy_s8.jpeg?downsize=*:90" alt="Samsung S8"></th>
+                <th>Galaxy S8</th>
+                <th><img src="https://drop.ndtv.com/TECH/product_database/images/910201410302AM_120_apple_iphone_6.jpeg?downsize=*:90" alt="Iphone 9"></th>
+                <th>Iphone 9</th>
+            </tr>
+            <tr>
+                <th><img src="https://i.gadgets360cdn.com/products/small/1519585124_120_samsung_galaxy_s9_blue.jpg?downsize=*:90" alt="Samsung S8"></th>
+                <th>Galaxy S9</th>
+                <th><img src="https://drop.ndtv.com/TECH/product_database/images/913201720154AM_120_iphone_x.jpeg?downsize=*:90" alt="Iphone 9"></th>
+                <th>Iphone X</th>
+            </tr>
+        </table>
+    </body>
