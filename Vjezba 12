@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt Forma</title>
+</head>
+<body>
+    <h2>Kontakt Forma</h2>
+
+    <form action="#" method="post">
+        <!-- Ime i Prezime -->
+        <label for="ime">Ime i Prezime:</label><br>
+        <input type="text" id="ime" name="ime" required><br><br>
+
+        <!-- E-mail -->
+        <label for="email">E-mail:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <!-- Država (padajući izbornik) -->
+        <label for="drzava">Država:</label><br>
+        <select id="drzava" name="drzava">
+            <option value="hrvatska">Hrvatska</option>
+            <option value="srbija">Srbija</option>
+            <option value="bosna">Bosna i Hercegovina</option>
+            <option value="slovenija">Slovenija</option>
+            <option value="crnagora">Crna Gora</option>
+        </select><br><br>
+
+        <!-- Poruka -->
+        <label for="message">Poruka:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+
+        <!-- Gumbi -->
+        <button type="submit" name="submit">Send</button>
+        <button type="reset" name="request">Request</button>
+    </form>
+</body>
+</html>
